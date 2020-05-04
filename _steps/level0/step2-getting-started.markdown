@@ -1,9 +1,9 @@
 ---
 layout: step
-number: 1
+number: 2
 level: 0
 title: Getting Started
-permalink: step1/
+permalink: step2/
 
 keywords:
 #  - term: package.json
@@ -19,10 +19,13 @@ We have already created a web page for you to use, and have left a `javascript` 
 
 So what actually is a web page?
 
-It's just a text file with two different types of content in it.
+It's just a text file with different types of content in it.
 
 1. text content, ie the actual words that will be displayed
-2. HTML tags, which tell the browser how the content is supposed to be displayed.
+2. HTML tags, which tell the browser how the content is supposed to be displayed
+3. CSS, which describes how HTML elements are styled (page layouts, colours, fonts, etc.)
+
+We'll explain more of the mechanics of the web on the next page.
 
 ## Let's get started!
 

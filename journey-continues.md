@@ -34,9 +34,9 @@ But this is just the tip of the iceberg for JavaScript and web development.  The
 
 [FreeCodeAcademy Youtube Channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) 
 
-[Code Newby](https://www.codenewbie.org/podcast/) weekly podcasts that poeple tell their stories about their coding journeys.
+[Code Newbie](https://www.codenewbie.org/podcast/) weekly podcasts that people tell their stories about their coding journeys.
 
-[WesBos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA) is a YouTube channel with a variety of short videos mostly on web development and Javascript.
+[Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA) is a YouTube channel with a variety of short videos mostly on web development and Javascript.
 
 [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos) is a Youtube channel with short videos on a wide variety of programming topics. It has a quirky sense of humour that isn’t for everyone.  His approach is very much a “this seems dumb, let me figure out for you why it isn’t”.
 

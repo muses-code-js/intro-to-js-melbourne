@@ -1,9 +1,9 @@
 ---
 layout: step
-number: 0
+number: 1
 level: 0
 title: Tools of the Trade
-permalink: step0/
+permalink: step1/
 
 keywords:
 #  - term: package.json
