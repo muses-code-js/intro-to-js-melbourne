@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: "Muses Code JS"
 workshopname: "Intro to Javascript"
-email: your-email@domain.com
+email: melbourne@musescodejs.org
 description: > # this means to ignore newlines until "baseurl:"
   This is an introductory workshop for Javascript.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/intro-to-js-melbourne" # the subpath of your site, e.g. /blog
+url: "https://muses-code-js.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
